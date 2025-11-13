@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aseun\\onedrive\\documentos\\cursos c++\\uearden2025\\uearden2025\\source\\uearden2025\\uearden2025.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aseun\\onedrive\\documentos\\cursos c++\\uearden2025\\uearden2025\\intermediate\\build\\win64\\x64\\uearden2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\aseun\\onedrive\\documentos\\cursos c++\\uearden2025\\uearden2025\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uearden2025\\definitions.uearden2025.h",
+            "c:\\users\\aseun\\onedrive\\documentos\\cursos c++\\uearden2025\\uearden2025\\source\\uearden2025\\uearden2025.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

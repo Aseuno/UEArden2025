@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UEArden2025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEArden2025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UEArden2025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UEArden2025">
+      <UniqueIdentifier>{14712975-3756-35F0-B11B-85EB23CFF497}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEArden2025\MyActorTest.cpp">
+      <Filter>Source\UEArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEArden2025\MyActorTest.h">
+      <Filter>Source\UEArden2025</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\UEArden2025\UEArden2025.Build.cs">
+      <Filter>Source\UEArden2025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UEArden2025\UEArden2025.cpp">
+      <Filter>Source\UEArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEArden2025\UEArden2025.h">
+      <Filter>Source\UEArden2025</Filter>
+    </ClCompile>
+    <Filter Include="Source\UEArden2025\Private">
+      <UniqueIdentifier>{71BA48D7-EEAE-314F-993C-F2B76A2B2B46}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEArden2025\Private\MyActorTest2.cpp">
+      <Filter>Source\UEArden2025\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UEArden2025\Public">
+      <UniqueIdentifier>{624D0AB0-125E-3E0E-8745-4136BB6FAA3D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEArden2025\Public\MyActorTest2.h">
+      <Filter>Source\UEArden2025\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
